@@ -1,43 +1,46 @@
-# 👋 Hello there, I'm Brandon Purcell
+👋 **Hi, I'm Brandon Zander Purcell**
+🚀 **2nd-Year Bachelor of Computing Student | AI Enthusiast | Aspiring Software Engineer**
+I'm passionate about Artificial Intelligence, automation, and building practical applications that push the boundaries of what intelligent systems can do. I enjoy learning through experimentation, building real projects, and participating in tech events that challenge the way I think.
 
-🎓 I’m currently a **first-year Bachelor of Computing student** with a passion for technology, innovation, and ethical AI. I'm diving deep into computing fundamentals while exploring how artificial intelligence is shaping the future of software development, automation, and sustainability.
+🧠 **About Me**
 
----
+🎓 Studying Bachelor of Computing (Year 2)
+🤖 Core focus on Artificial Intelligence, agentic systems, and automation
+🛠️ Currently building a new AI‑integrated application (still under wraps — Currently on the Planning/Design and development pahse — reveal coming when its ready!)
+🌱 Always exploring new tools, tech, and development workflows
+🏆 Achieved 2nd place overall at Belgium Campus AI Fest 2025
 
-## 🚀 What I’ve Been Up To
 
-### 💡 Hackathons & Events
-- **Hack the Waste 2025!** – Collaborated on sustainable tech solutions to improve recycling systems using AI and community engagement.
+🏗️ **Projects & Highlights**
+🔹 C# Menu-Driven Console Application
+A simple but clean menu-driven program built in C#, demonstrating programming fundamentals, structured logic, and console-based interaction.
+🔹 Web Development Basics
+Created several HTML/CSS projects while learning web development fundamentals.
+🔹 AI‑Enhanced Personal Agents
+Designed personal AI assistant tools to support productivity, learning, and daily tasks.
 
-### 🎓 Masterclasses & Skills Development
-- **A Glimpse into ERP & SAP** – Explored how enterprise resource planning systems streamline business operations.
-- **Agentic AI and Automation** – Gained insights into autonomous systems and their impact on future workflows.
+🎓 **Skills & Learning**
 
-### 🤖 Microsoft AI Skills Fest
-- *Introduction to Generative AI: Exploring the Basics* – Learned about text-to-image, LLMs, and foundational AI concepts.
-- *Security, Compliance, and Identity Fundamentals Prep* – Developed awareness of key principles in digital security.
-- *Design a Dream Destination with Microsoft Copilot* – Used generative tools to combine creativity with tech.
+Artificial Intelligence fundamentals
+Agentic systems & automation
+Software development & prototyping
+Git & GitHub version control
+Building small tools, scripts, and prototypes to test new ideas
 
-### 🔬 O’Reilly Live Learning
-- **Coding with AI: The End of Software Development as We Know It** – Examined how AI is transforming programming and software engineering.
+💡 **Current focus:**
+🚧 Developing a custom AI‑integrated application, exploring intelligent workflows and user-centered design.
 
----
+🏆 **Events & Achievements**
 
-## 🌱 Currently Learning
-- Python, HTML/CSS, and JavaScript basics
-- Linear programming and computational thinking
-- Real-world applications of AI in society and industry
+🥈 2nd Place – Belgium Campus AI Fest 2025
+♻️ Hack the Waste 2025 – Sustainable tech challenge using AI
+📘 Masterclasses Completed:
+      ERP & SAP Fundamentals
+      Agentic AI & Automation
+      Git & GitHub Fundamentals
 
----
 
-## 🧠 Interests
-- Ethical AI & digital sustainability  
-- Software development & open-source collaboration  
-- Smart cities, green tech, and educational equity through technology  
+🔗 Find Me Online
 
----
-
-📫 **Let’s connect!**  
-I’m always eager to collaborate, learn, and grow with like-minded individuals.  
-Reach out via [LinkedIn](https://www.linkedin.com/) or explore my projects right here on GitHub!
+GitHub: https://github.com/Brandon-cmd548
 
